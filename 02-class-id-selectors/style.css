@@ -1,5 +1,12 @@
-div
-{
-    background-color: #ffcccb;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-}
+.p
+    {
+        background-color: #ffcccb;
+        font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+
+#oneID
+    {
+        color: #3c76ff;
+        font-size: 36px;
+        font-family: Verdana, "DesajaVu Sans", sans-serif;
+    }
