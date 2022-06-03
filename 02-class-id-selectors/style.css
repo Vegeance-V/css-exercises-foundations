@@ -15,3 +15,11 @@
         font-size: 36px;
         font-family: Verdana, "DesajaVu Sans", sans-serif;
     }
+
+#anotherID
+    {
+        background-color: #66fea5;
+        font-size: 24px;
+        font-weight: bold;
+        font-family: Verdana, "DesajaVu Sans", sans-serif;
+    }
