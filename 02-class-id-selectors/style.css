@@ -4,6 +4,11 @@
         font-family: Verdana, "DejaVu Sans", sans-serif;
     }
 
+.p.size
+    {
+        font-size: 24px;
+    }
+
 #oneID
     {
         color: #3c76ff;
