@@ -18,17 +18,17 @@
 }
 
 .button.confirm {
-    background-color: green;
-    color: white;
-    font-weight: bold;
-  } 
-
-.child {
-  color: red;
-  font-size: 14px;
-}
+  background-color: green;
+  color: white;
+  font-weight: bold;
+} 
 
 div.text {
   color: green;
   font-size: 22px;
+}
+
+.text.child {
+  color: red;
+  font-size: 14px;
 }
